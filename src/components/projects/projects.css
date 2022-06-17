@@ -1,3 +1,9 @@
 .projects {
     font-family: 'Open Sans', sans-serif;
+    margin-left: 15px;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
 }

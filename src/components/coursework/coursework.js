@@ -5,6 +5,7 @@ export default class Coursework extends Component {
     render() {
         return (
             <div className="courses">
+                    <h1>Relevant Coursework</h1>
                     <h2>Summer 2020</h2>
                     <ul>
                         <li>CS 61A: Structure and Interpretation of Programs</li>
@@ -32,7 +33,7 @@ export default class Coursework extends Component {
                     <h2>Fall 2022</h2>
                     <ul>
                         <li>CS 161: Computer Security</li>
-                        <li>CS 188: Database Systems</li>
+                        <li>CS 186: Database Systems</li>
                         <li>EECS 127: Optimizations Models in Engineering</li>
                     </ul>
             </div>

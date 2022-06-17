@@ -3,8 +3,9 @@ import "./projects.css"
 
 export default class Projects extends Component {
     render() {
-        return ( 
+        return (
             <div className="projects">
+                <h1>Projects</h1>
                 <h2>Scheme Interpreter</h2>
                     <ul>
                         <li>Interpreter for a subset of the Scheme language written in Python.</li>
