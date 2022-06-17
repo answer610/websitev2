@@ -13,7 +13,7 @@
   color: #61dafb;
 }
 
-[label react-tabs-component/src/App.css] .tab-list {
+.tab-list {
   border-bottom: 1px solid #ccc;
   padding-left: 0;
 }
@@ -23,6 +23,7 @@
   list-style: none;
   margin-bottom: -1px;
   padding: 0.5rem 0.75rem;
+  cursor: pointer;
 }
 
 .tab-list-active {

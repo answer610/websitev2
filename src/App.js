@@ -1,6 +1,6 @@
 
 import './App.css';
-import React, {Component} from 'react';
+import React from 'react';
 import Coursework from './components/coursework/coursework'
 import Projects from './components/projects/projects';
 import Tabs from "./components/Tabs";
@@ -8,7 +8,7 @@ import About from "./components/about/about";
 function App() {
   return (
     <div className="App-header"> 
-      <Tabs>
+      <Tabs className="tab-list">
         <div label="About Me">
           <About></About>
         </div>
