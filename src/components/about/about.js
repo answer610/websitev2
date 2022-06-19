@@ -18,8 +18,7 @@ export default class About extends Component {
                     <SocialIcon url="https://www.linkedin.com/in/an-le-048523197/"/> &nbsp;
                     <SocialIcon url="https://www.dropbox.com/s/j0tkzr7kgstysrz/resume_current.pdf?dl=0"/> &nbsp;
                     <SocialIcon url="mailto:anl2002@berkeley.edu"/> &nbsp;
-                    <SocialIcon url="https://github.com/answer610" fgColor="white" bgColor="black"/> &nbsp;
-                    <SocialIcon url="https://www.worldcubeassociation.org/persons/2015LEAN01"/>
+                    <SocialIcon url="https://github.com/answer610" fgColor="white" bgColor="black"/> 
                 </span>
                 <span className="about">
                     <p>Hi! My name is An Le and I am a undergraduate student at UC Berkeley pursuing a major in Computer Science. I am not 100% sure what
