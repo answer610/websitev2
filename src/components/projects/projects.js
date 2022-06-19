@@ -21,15 +21,15 @@ export default class Projects extends Component {
                 <h2>Build Your Own World</h2>
                     <ul>
                         <li>2D random-generated maze game written in Java.</li>
-                        <li>Features selections of difficulty, avatar, and map.</li>
-                        <li>Implemented saving and loading features.</li>
-                        <li>Verified funcitonality with JUnit testing.</li>
+                        <li>Features the ability to select map theme, avatar, and difficulty level by changing enemy movement speed.</li>
+                        <li>Implemented saving and loading game progress.</li>
+                        <li>Verified functionality with JUnit testing.</li>
                     </ul>
                 <h2>NumC</h2>
                     <ul>
                         <li>Miniature version of the NumPy library written in C.</li>
                         <li>Features basic matrix operations such as addition and multiplication.</li>
-                        <li>Used SIMD and OpenMP to optimize matrix operations with an overall speedup of 50x.</li>
+                        <li>Used SIMD and OpenMP to optimize matrix operations with an overall speedup of 1000%</li>
                     </ul>
             </div>
         )
