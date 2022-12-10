@@ -16,7 +16,7 @@ export default class About extends Component {
                     marginTop: "10px"
                 }}>
                     <SocialIcon url="https://www.linkedin.com/in/an-le-048523197/"/> &nbsp;
-                    <SocialIcon url="https://www.dropbox.com/s/j0tkzr7kgstysrz/resume_current.pdf?dl=0"/> &nbsp;
+                    <SocialIcon url="https://drive.google.com/file/d/1-I8fEIiv5w5vEmp2f9K8eZU3tn4yqaKg/view?usp=sharing"/> &nbsp;
                     <SocialIcon url="mailto:anl2002@berkeley.edu"/> &nbsp;
                     <SocialIcon url="https://github.com/answer610" fgColor="white" bgColor="black"/> 
                 </span>

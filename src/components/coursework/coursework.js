@@ -36,6 +36,11 @@ export default class Coursework extends Component {
                         <li>CS 186: Database Systems</li>
                         <li>EECS 127: Optimizations Models in Engineering</li>
                     </ul>
+                    <h2>Spring 2023</h2>
+                    <ul>
+                        <li>CS 189: Machine Learning</li>
+                        <li>CS 164: Compilers and Programming Languages</li>
+                    </ul>
             </div>
         )
     }
